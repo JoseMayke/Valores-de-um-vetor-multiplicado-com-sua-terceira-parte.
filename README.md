@@ -4,4 +4,4 @@ Uma questão de comum de Estruras de Dados I do terceiro periodo do curso de sist
 
 É um codigo usando duas funções e utilizando alocação dinâmica.
 
-O algoritmo printa todos os valores do vetor e em seguida
+O algoritmo printa todos os valores do vetor e em seguida multiplica cada posição com sua terceira parte.
